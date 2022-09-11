@@ -115,7 +115,7 @@ h1, h2 {
 #center-about {
     width: 33%;
     margin: 0 auto;
-    background-color: green;
+    
 }
 
 .left-about-heading {
@@ -138,6 +138,9 @@ hr {
     line-height: 20px;
     clear: both;
     margin-bottom: 50px;
+    position: relative;
+    top: 800px;
+    
 }
 
 .right-about-heading h2 {
@@ -146,4 +149,27 @@ hr {
 
 .right-about-heading p {
     text-align: right;
+}
+
+#welcome {
+    text-align: center;
+    margin: 20px 0;
+    font-size: 280%;
+}
+
+#square-container {
+    width: 1000px;
+    height: 500px;
+    padding: 30px;
+    border-style: solid;
+    border-color: #ccc;
+    border-width: 1px;
+    margin: 0 auto;
+    position: relative;
+    top: 50px;
+}
+
+#square-cover-bg {
+    background: url('./images/ethos-center-image.jpg') no-repeat center center;
+    height: 100%;
 }
