@@ -173,3 +173,102 @@ hr {
     background: url('./images/ethos-center-image.jpg') no-repeat center center;
     height: 100%;
 }
+
+#square-container1 {
+    width: 1000px;
+    height: 500px;
+    padding: 30px;
+    border-style: solid;
+    border-color: #ccc;
+    border-width: 1px;
+    margin: 0 auto;
+    position: relative;
+    top: 300px;
+    right: 250px;
+}
+
+#square-cover-bg1 {
+    background: url('./images/oldtrafford-center1-image.jpg') no-repeat center center;
+    height: 100%;
+}
+
+#left-about1 {
+    padding-top: 30px;
+    width: 33%;
+    float: left;
+    
+}
+
+.left-about-heading1 {
+    width: 60%;
+    float: right;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+    position: relative;
+    top: 400px;
+    
+}
+
+#square-container2 {
+    width: 1000px;
+    height: 500px;
+    padding: 30px;
+    border-style: solid;
+    border-color: #ccc;
+    border-width: 1px;
+    margin: 0 auto;
+    position: relative;
+    top: 460px;
+    left: 250px;
+}
+
+#square-cover-bg2 {
+    background: url('./images/womensteam-center2-image.jpg') no-repeat center center;
+    height: 100%;
+}
+
+#welcome1 {
+    text-align: center;
+    margin: 20px 0;
+    font-size: 280%;
+    position: relative;
+    top: 1800px;
+}
+
+#left-about2 {
+    padding-top: 30px;
+    width: 33%;
+    float: left;
+    
+}
+
+.left-about-heading2 {
+    width: 60%;
+    float: right;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+    position: relative;
+    top: 750px;
+    right: 650px;
+    
+}
+
+#square-container3 {
+    width: 1000px;
+    height: 500px;
+    padding: 30px;
+    border-style: solid;
+    border-color: #ccc;
+    border-width: 1px;
+    margin: 0 auto;
+    position: relative;
+    top: 800px;
+    left: 250px;
+}
+
+#square-cover-bg3 {
+    background: url('./images/erik-center3-image.jpg') no-repeat center center;
+    height: 100%;
+}
