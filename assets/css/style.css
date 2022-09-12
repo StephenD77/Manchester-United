@@ -272,3 +272,40 @@ hr {
     background: url('./images/erik-center3-image.jpg') no-repeat center center;
     height: 100%;
 }
+
+#left-about3 {
+    padding-top: 30px;
+    width: 33%;
+    float: left;
+    
+}
+
+.left-about-heading3 {
+    width: 60%;
+    float: right;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+    position: relative;
+    top: 900px;
+    right: 20px;
+    
+}
+
+#square-container4 {
+    width: 1000px;
+    height: 500px;
+    padding: 30px;
+    border-style: solid;
+    border-color: #ccc;
+    border-width: 1px;
+    margin: 0 auto;
+    position: relative;
+    top: 800px;
+    left: 670px;
+}
+
+#square-cover-bg4 {
+    background: url('./images/marc-center4-image.jpg') no-repeat center center;
+    height: 100%;
+}
