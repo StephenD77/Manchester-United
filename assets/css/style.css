@@ -320,10 +320,26 @@ hr {
 }
 
 #footer {
-    background-color: silver;
+    background-color: black;
     position: relative;
-    height: 100px;
+    height: 250px;
     top: 1000px;
     clear: both;
 }
 
+
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: white;
+}
