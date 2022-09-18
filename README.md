@@ -68,12 +68,12 @@ My colour scheme will take inspiration from the hero image including red, yellow
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-|Color | ![#3a3a3a](https://via.placeholder.com/10/3a3a3a?text=+) #3a3a3a |
-|Color | ![#ccc](https://via.placeholder.com/10/ccc?text=+) #ccc |
-|Color | ![#000000](https://via.placeholder.com/10/000000?text=+) #000000 |
-|Color | ![#ff0000](https://via.placeholder.com/10/ff0000?text=+) #ff0000 |
-|Color | ![#f16c6b](https://via.placeholder.com/10/f16c6b?text=+) #f16c6b |
-|Color | ![#fafafa](https://via.placeholder.com/10/fafafa?text=+) #fafafa |
+|Color | #3a3a3a Dark shade of grey
+|Color | #ccc White
+|Color | #000000 Black
+|Color | #ff0000 Red
+|Color | #f16c6b Shade of red
+|Color | #fafafa Grey
 
 
 ## Footer
